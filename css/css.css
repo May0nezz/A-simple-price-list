@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+ 
+body{
+    margin: 0;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.menu__main {
+    height: 800px;
+    width: 600px;
+    margin: 0 auto;
+    background-color: white;
+    text-align: center;
+    border: 5px solid black;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.chlen{
+    margin-bottom: 50px;
+}
+
+.menu__main p{
+    margin-bottom: 200px;
+}
+
+.penis{
+    margin: 50px 0 50px 0;
+}
+
+a{
+    text-decoration: none;
+    font-size: 50px;
+}
